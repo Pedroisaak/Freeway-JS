@@ -12,3 +12,4 @@ Em Freeway, o jogador controlava uma galinha que deveria atravessar uma rodovia 
 
 ### Regras
 Só é preciso atravessar a rua sem colidir com os carros, caso atravesse será adicionado um ponto, caso colida será retirado um ponto
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/101290219/171549865-afc99514-bb69-46aa-bcce-47655fb863e6.gif)
